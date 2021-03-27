@@ -1,5 +1,5 @@
 ---
-create_containers: 4
+create_containers: 2
 default_container_name: ncddocker
 default_container_image: ubuntu
 default_container_command: sleep 1d
